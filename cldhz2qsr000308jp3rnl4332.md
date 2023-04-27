@@ -1,4 +1,14 @@
-# Sending your API errors asynchronously as slack notifications
+---
+title: "Sending your API errors asynchronously as slack notifications"
+seoTitle: "Sending your API errors asynchronously as slack notifications"
+seoDescription: "Sending errors asynchronously from your express API as slack notifications using the slack API and BullMQ queues"
+datePublished: Sun Jan 29 2023 22:47:35 GMT+0000 (Coordinated Universal Time)
+cuid: cldhz2qsr000308jp3rnl4332
+slug: sending-your-api-errors-asynchronously-as-slack-notifications
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675030599425/8a97debe-a42f-429e-a962-a0eb53a506b1.png
+tags: express, error-handling, slack, bullmq
+
+---
 
 Sending errors from your express API as slack notifications can be a useful way to stay informed of any issues with your application in real-time. By utilizing the slack API and BullMQ queues, you can set up a system that automatically sends notifications to a designated slack channel whenever an error occurs within your API.
 
