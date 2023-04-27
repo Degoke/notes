@@ -1,4 +1,14 @@
-# SQL queries on a production database
+---
+title: "SQL queries on a production database"
+seoTitle: "SQL queries on production database"
+seoDescription: "Precautions to take when running SQL queries on your production database"
+datePublished: Thu Jan 19 2023 21:02:59 GMT+0000 (Coordinated Universal Time)
+cuid: cld3kxot6000609l2cfpzbqdk
+slug: sql-queries-on-a-production-database
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/d1b3265848eb26eee927b47895270089.jpeg
+tags: databases, sql, databasemanagement
+
+---
 
 Generally, it is a bad idea to run SQL statements - (UPDATE, INSERT, ALTER, DELETE) on your production database. One incorrect statement can have drastic side effects affecting the security and integrity of your data.
 
