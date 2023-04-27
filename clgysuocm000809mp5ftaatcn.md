@@ -14,6 +14,8 @@ In today's fast-paced world, I believe it's more important than ever for organiz
 
 ### Understanding Learning Organizations
 
+In a 1993 article, Harvard Business School professor David Garvin defined a learning organization as “an organization skilled at creating, acquiring, and transferring knowledge, and at modifying its behavior to reflect new knowledge and insights.
+
 A learning organization in my view is like a living breathing entity that continuously grows and evolves. I have experienced firsthand how organizations that employ the principles of learning organizations seek out new knowledge, share insights, and apply lessons learned to improve their performance and adapt to change. I've identified a few key characteristics of these organizations:
 
 1. A supportive learning environment that feels like a safe place for open communication, diverse perspectives, and personal growth. I have experienced this in the form of regular team-building exercises and brainstorming sessions that allows employees to contribute and learn from each other.
